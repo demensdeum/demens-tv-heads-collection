@@ -1,0 +1,5 @@
+Collection: Demens TV Heads
+Name: Fierce
+Contract address: https://etherscan.io/address/0x008d50b3b9af49154d6387ac748855a3c62bf40d
+Contract metadata: https://ipfs.io/ipfs/bafybeih3ovvf4vrp7wz6f6ww6rffzw2yaqamhtylua3ouyrsg5ppruwppa/1
+Metadata: {"name": "Fierce", "description": "In a pixel-drenched dystopia, Fierce stands defiant \u2014 a lone figure in a black street tracksuit, gripping a wooden bat with silent fury. His head, an old CRT television, erupts in flames, broadcasting chaos instead of signal. A symbol of rebellion and analog rage in a digital world gone numb.", "external_url": "demensdeum.com/collections/demens-tv-heads/fierce.png", "image": "ipfs://bafybeihftrrgckus3f7lgnewr4pslutyerjtvuo3nw6iifesqrnwkn6g2i/1"}
