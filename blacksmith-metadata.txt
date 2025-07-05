@@ -1,0 +1,5 @@
+Collection: Demens TV Heads
+Name: Blacksmith
+Contract address: https://etherscan.io/address/0x008d50b3b9af49154d6387ac748855a3c62bf40d
+Contract metadata: https://ipfs.io/ipfs/bafybeidg2rhto56qb63svuu6d4lslrgmtvychvuqmxpz6bo6q24lzcufhq/3
+{"name": "Blacksmith", "description": "Forged in digital fire, the Crypto Blacksmith is the blazing heart of the blockchain revolution. With a burning CRT TV for a head and a hammer in one hand, he crafts coins from chaos. In the other — the golden proof of his craft. Silent screen. Loud message.", "external_url": "demensdeum.com/collections/demens-tv-heads/blacksmith.png", "image": "ipfs://bafybeiclylhyggktdvflc3yocyvabnonjnkmipu4ukkkblaeyqd7jxclhe/3"}
