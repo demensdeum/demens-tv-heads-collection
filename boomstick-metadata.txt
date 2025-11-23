@@ -1,5 +1,1 @@
-Collection: Demens TV Heads
-Name: Boomstick
-Contract address: https://etherscan.io/address/0x008d50b3b9af49154d6387ac748855a3c62bf40d
-Contract metadata: https://ipfs.io/ipfs/bafybeiex66vcv7beda75ldszzk3y36lx4iik7qrbv64d5ax4em4o6xhjxq/2
 {"name": "Boomstick", "description": "Boomstick is the pixel apostle of destruction. Clad in green armor, with a blazing CRT television for a head and a double-barreled shotgun in hand, he\u2019s entered the world to purge it of glitches and demons. His screen remains silent \u2014 but his actions speak louder than any signal. A character inspired by the classics, reborn in a blazing NFT-punk style.", "external_url": "demensdeum.com/collections/demens-tv-heads/boomstick.png", "image": "ipfs://bafybeifi43zxb23jlnbeg6nuympnr54tkbv4pebxsakn422vyt6vpr55vu/2"}
