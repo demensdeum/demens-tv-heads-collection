@@ -1,0 +1,1 @@
+{"image":"ipfs://bafybeigyfs7z4mxhxl3vssb756v7f2nwcdi3b35fcfgotvuv3tuz6zi5hm","name":"Krampus","description":"A pixel-perfect mix of retro tech and ancient folklore. Suited up and holding a trident, this 8-bit baddie is ready for the blockchain.","external_url":"https://demensdeum.com/collections/demens-tv-heads/krampus.png"}
